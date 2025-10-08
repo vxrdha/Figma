@@ -401,7 +401,7 @@ border: 1px solid #000000;
 
 
 ## OUTPUT:
-
+![alt text](<Screenshot 2025-10-08 104317.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
