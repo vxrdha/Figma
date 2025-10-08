@@ -1,4 +1,4 @@
-## Ex.08 Design of Interactive Image Gallery
+## Ex.09 Event Registration Web Application
 ## Date:08/10/2025
 
 ## AIM:
